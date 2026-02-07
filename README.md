@@ -1,0 +1,1 @@
+# remove-an-element-from-a-list-using-.remove-and-delete-the-last-elementusing-.pop-
